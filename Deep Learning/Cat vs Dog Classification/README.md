@@ -6,4 +6,3 @@ This is a very simple cat vs dog classification, using a Kaggle competition data
 I will continue to optimize this neural network in time to work more efficiently & accurately.
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Alpostros/d15e2c52a461624aeb1c85110b1eabcb/cat_vs_dog_dl.ipynb)
-Google Colab notebook link: https://colab.research.google.com/gist/Alpostros/d15e2c52a461624aeb1c85110b1eabcb/cat_vs_dog_dl.ipynb
